@@ -8,4 +8,3 @@ here i have added some of the my projects Ui scrrenshots
 ![Login](https://github.com/pandurangfunde/XenonStack/assets/122004953/6a973aae-f426-4139-9e0d-463f536da479)
 ![Restock](https://github.com/pandurangfunde/XenonStack/assets/122004953/712e3139-3ab7-44d1-b16b-80eac130cca8)
 ![SellerRegister](https://github.com/pandurangfunde/XenonStack/assets/122004953/9bd64cfc-3a46-4713-b953-0301d3de8e2c)
-![VendorHomepage](https://github.com/pandurangfunde/XenonStack/assets/122004953/0c124c56-5665-42c5-ba48-12d1f5e13a86)
